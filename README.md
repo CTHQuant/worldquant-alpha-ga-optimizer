@@ -27,8 +27,11 @@ This project implements a genetic algorithm (GA) framework to automatically gene
 
 ---
 
-## Sample Output and Results  
-
+## Results  
+- 2025 WorldQunat IQC competition rank (On-going)
+  - World: 57th worldwide (top 0.07%) out of 73,200+ participants
+  - Taiwan: 1st among 1,100+ local competitors
+    
 - Over 5,000 Alphas generated and scored automatically  
 
 - Multiple strategies achieved Sharpe > 2.0 and Margin > 15‰  
